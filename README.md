@@ -1,4 +1,4 @@
-# Formatted Clock
+# C Clock Project
 
 This is a simple C program that displays the current time and date in the terminal. The program allows the user to choose between a 24-hour or 12-hour time format. The display updates every second.
 
