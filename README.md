@@ -14,6 +14,8 @@ The Formatted Clock program continuously updates and displays the current time a
 ## Pictures
 ![image](https://github.com/user-attachments/assets/6e8a490f-21fd-47df-8a07-f8760b8cb8fc)
 ![image](https://github.com/user-attachments/assets/2e7da598-7bc5-430a-bf69-2676139fbfd2)
+![image](https://github.com/user-attachments/assets/25bef4bf-d1df-44fa-a59c-e19b952fa593)
+
 
 
 
